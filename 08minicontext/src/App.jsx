@@ -9,7 +9,7 @@ function App() {
 
   return (
     <UserContextProvider>
-    <h1>Goal is mendetory finish!</h1>
+    <h1>Context API</h1>
     <Login />
     <Profile />
     </UserContextProvider>
